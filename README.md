@@ -54,5 +54,5 @@ The deployment process involves the following steps:
 
 ## Website
 ![Website-SS](Website-ss.png)
-[Predictor_Website](https://mmsarvice-insurace-predictor.azurewebsites.net/)
+[Predictor_Website](https://mmsarvice-insurance-predictor.azurewebsites.net)
 
