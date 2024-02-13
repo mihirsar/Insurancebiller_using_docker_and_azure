@@ -48,7 +48,8 @@ The deployment process involves the following steps:
 ## Important Note
 - Site hosted on Azure for students free tier
 - Azure for Students allows only 60 min CPU/day,
-- thus site will require some time to load as it takes some time pull, download & extract the image and warmup request for servers
+- thus site will require some time to load as it takes some time pull, download & extract the image and warmup request for azure servers
+- try reloading the website after some time
   
 
 ## Website
