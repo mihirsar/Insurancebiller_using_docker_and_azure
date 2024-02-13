@@ -46,5 +46,6 @@ The deployment process involves the following steps:
 ![AzureDashBoard](Resources.png)
 
 ## Website
+![Website-SS](Website-ss.png)
 [Predictor_Website](https://mmsarvice-insurace-predictor.azurewebsites.net/)
 
