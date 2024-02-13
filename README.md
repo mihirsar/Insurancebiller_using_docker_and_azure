@@ -39,6 +39,12 @@ The deployment process involves the following steps:
 - Azure Container Registry
 - Azure Web App Service
 
+## Docker Part
+![DockerLists](dockerlists.png)
+
+## Azure Resources
+![AzureDashBoard](Resources.png)
+
 ## Website
 [Predictor_Website](https://mmsarvice-insurace-predictor.azurewebsites.net/)
 
